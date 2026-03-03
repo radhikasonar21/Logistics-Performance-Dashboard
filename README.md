@@ -18,4 +18,6 @@ Identified high-performing categories, regions with longer delivery times, and r
 
 𝐓𝐨𝐨𝐥𝐬: Power BI | DAX | Data Modeling
 
-Screenshots: Show what dashboard look like. - Example: ![Dashboard Preview].(https://github.com/radhikasonar21/Logistics-Performance-Dashboard/blob/main/Logistic%20Dashboard%20ss.png)
+Screenshots: 
+Show what dashboard look like :
+Example: ![Dashboard Preview].(https://github.com/radhikasonar21/Logistics-Performance-Dashboard/blob/main/Logistic%20Dashboard%20ss.png)
