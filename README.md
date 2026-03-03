@@ -1,22 +1,59 @@
 # Logistics-Performance-Dashboard
 
-𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐏𝐫𝐨𝐛𝐥𝐞𝐦:
-Limited visibility into shipment status, delivery delays, and category performance makes it difficult to identify operational gaps.
+📌 Project Overview
 
-𝐆𝐨𝐚𝐥:
-Track revenue, shipment lifecycle (Active, Completed, Returned), delivery time by region, and category-wise contribution to support data-driven decisions.
+This project presents an interactive Supply Chain & Logistics Dashboard built using Power BI.
+The dashboard provides end-to-end visibility into shipment performance, revenue trends, delivery efficiency, category performance, and geographic insights. It helps stakeholders monitor KPIs and make data-driven operational decisions.
 
-𝐊𝐞𝐲 𝐕𝐢𝐬𝐮𝐚𝐥𝐬:
-K̲P̲I̲ ̲C̲a̲r̲d̲s̲ : Quick snapshot of Revenue ($2M), 5K Shipments, 62% Completed, 5% Returns, Avg Delivery Time (10 days)
-M̲o̲n̲t̲h̲l̲y̲ ̲T̲r̲e̲n̲d̲s̲ ̲(̲C̲o̲l̲u̲m̲n̲ ̲&̲ ̲L̲i̲n̲e̲ ̲C̲h̲a̲r̲t̲s̲)̲ : Monitor shipment volume and revenue patterns
-D̲o̲n̲u̲t̲ ̲C̲h̲a̲r̲t̲ : Identify top revenue categories (Electronics leads)
-B̲a̲r̲ ̲C̲h̲a̲r̲t̲ : Compare delivery performance across geographies
-S̲a̲l̲e̲s̲p̲e̲r̲s̲o̲n̲ ̲T̲a̲b̲l̲e̲ ̲w̲i̲t̲h̲ ̲S̲p̲a̲r̲k̲l̲i̲n̲e̲s̲ : Track individual performance trends
+🎯 Business Objective:
 
-𝐈𝐧𝐬𝐢𝐠𝐡𝐭 & 𝐈𝐦𝐩𝐚𝐜𝐭:
-Identified high-performing categories, regions with longer delivery times, and return patterns, helping improve operational efficiency, reduce delays, and optimize resource planning.
+The primary goal of this dashboard is to:
 
-𝐓𝐨𝐨𝐥𝐬: Power BI | DAX | Data Modeling
+-Track overall Revenue & Shipment performance
+-Monitor Active, Completed & Returned shipments
+-Analyze Monthly revenue trends
+-Evaluate Category-wise contribution
+-Measure Average Delivery Time by Geography
+-Identify Top-performing Sales Personnel
+-Improve operational efficiency and reduce delays
+
+📊 Key KPIs Displayed:
+
+💰 Total Revenue: $2M
+📦 Total Shipments: 5K
+🚚 Active Shipments: 2K (33%)
+✅ Completed Shipments: 3K (62%)
+🔁 Returned Shipments: 248 (5%)
+⏱️ Average Delivery Time: 10 Days
+
+📈 Dashboard Highlights:
+
+📅 Monthly & Year-wise revenue analysis
+📦 Shipment status breakdown (Active, Completed, Returned)
+🏷️ Revenue by Category (Electronics, Audio, Computing, Office Equipment)
+🌍 Delivery time comparison by country
+👤 Sales performance tracking with shipment trends
+
+🛠️ Tools Used:
+
+-Power BI Desktop
+-Power Query (Data Transformation)
+-DAX (Measures & Calculations)
+-Data Modeling
+
+💡 Key Insights:
+
+-Majority of shipments are successfully completed (62%).
+-Returned shipments are relatively low (5%), but require monitoring.
+-Revenue shows monthly fluctuations indicating seasonal patterns.
+-Delivery time varies across regions, highlighting potential optimization areas.
+
+👩‍💻 Author
+
+Radhika Sonar
+Data Analyst | SQL | Power BI | Business Intelligence
+
+
 
 Screenshots: 
 Show what dashboard look like. - ![Alt text](https://github.com/radhikasonar21/Logistics-Performance-Dashboard/blob/main/Logistic%20Dashboard%20ss.png)
